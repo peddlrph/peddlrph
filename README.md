@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peddlrph. 
-- 👀 I’m interested in many things particularly about software development. Software devt is a hobby.
+- 👀 I’m interested in many things particularly software devt. Software devt is a hobby.
 - 🌱 I’m currently learning PWA
 - 💞️ I’m looking to collaborate on Bitcoin SV devt projects
 - 📫 You can reach me thru twitter or twetch
